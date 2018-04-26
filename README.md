@@ -32,6 +32,7 @@ W3School - CSS 参考手册: http://www.w3school.com.cn/cssref/index.asp<br>
 <li>任务四：基础JavaScript练习（一)</li>
 <li>任务五：基础JavaScript练习（二）</li>
 <li>任务六：基础JavaScript练习（三）</li>
+  </ul>
   <h3>参考资料</h3>
   JavaScript入门篇: http://www.imooc.com/learn/36<br>
 MDN JavaScript: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript<br>
