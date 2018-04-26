@@ -7,7 +7,7 @@
 预览效果 
 
 <h2>小薇学院</h2>
-HTML/CSS的入门练习，即我们的“小薇学院”
+<p>HTML/CSS的入门练习，即我们的“小薇学院”</p>
 <ul>
   <li>任务一：零基础HTML编码</li>
   <li>任务二：零基础HTML及CSS编码（一）</li>
@@ -24,7 +24,7 @@ Web相关名词通俗解释：https://www.zhihu.com/question/22689579<br>
 MDN CSS入门教程: https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started<br>
 W3School - CSS 参考手册: http://www.w3school.com.cn/cssref/index.asp<br>
 <h2>斌斌学院</h2>
-JavaScript 的入门练习，即“斌斌学院”
+<p>JavaScript 的入门练习，即“斌斌学院”</p>
 <ul>
 <li>任务一：零基础JavaScript编码（一）</li>
 <li>任务二：零基础JavaScript编码（二）</li>
@@ -32,7 +32,7 @@ JavaScript 的入门练习，即“斌斌学院”
 <li>任务四：基础JavaScript练习（一)</li>
 <li>任务五：基础JavaScript练习（二）</li>
 <li>任务六：基础JavaScript练习（三）</li>
-参考资料
-JavaScript入门篇: http://www.imooc.com/learn/36
-MDN JavaScript: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
-W3School JavaScript 参考手册: http://www.w3school.com.cn/jsref/index.asp
+  <h3>参考资料</h3>
+JavaScript入门篇: http://www.imooc.com/learn/36<br>
+MDN JavaScript: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript<br>
+W3School JavaScript 参考手册: http://www.w3school.com.cn/jsref/index.asp<br>
