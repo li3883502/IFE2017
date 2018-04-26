@@ -1,4 +1,4 @@
-# IFE2017
+# 百度前端学院(IFE)2017学习
 百度前端学院 2017 学习
 官网：http://ife.baidu.com/course/all
 
@@ -6,16 +6,17 @@
 
 预览效果 
 
-小薇学院
+<h2>小薇学院</h2>
 HTML/CSS的入门练习，即我们的“小薇学院”
-
-任务一：零基础HTML编码
-任务二：零基础HTML及CSS编码（一）
-任务三：三栏式布局
-任务四：定位和居中问题
-任务五：零基础HTML及CSS编码（二）
-任务八：响应式网格（栅格化）布局
-任务十：Flexbox 布局练习
+<ul>
+  <li>任务一：零基础HTML编码</li>
+  <li>任务二：零基础HTML及CSS编码（一）</li>
+ <li>任务三：三栏式布局</li>
+ <li>任务四：定位和居中问题</li>
+ <li>任务五：零基础HTML及CSS编码（二）</li>
+ <li>任务八：响应式网格（栅格化）布局</li>
+ <li>任务十：Flexbox 布局练习</li>
+  </ul>
 参考资料
 慕课HTML+CSS基础教程视频：http://www.imooc.com/learn/9
 MDN HTML入门：https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction
